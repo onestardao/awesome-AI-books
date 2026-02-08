@@ -30,6 +30,7 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [Feature Selection](https://github.com/zslucky/awesome-AI-books#feature-selection)
   - [Machine Learning](https://github.com/zslucky/awesome-AI-books#machine-learning-1)
   - [Deep Learning](https://github.com/zslucky/awesome-AI-books#deep-learning-1)
+  - [LLM](https://github.com/zslucky/awesome-AI-books#llm)
   - [NLP](https://github.com/zslucky/awesome-AI-books#nlp)
   - [CV](https://github.com/zslucky/awesome-AI-books#cv)
   - [Meta Learning](https://github.com/zslucky/awesome-AI-books#meta-learning)
@@ -191,6 +192,8 @@ Some often used **Mathematic Symbols** can refer this [page](https://github.com/
   - [GNN Papers](https://github.com/thunlp/GNNPapers) - Must-read papers on graph neural networks (GNN)
   - [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf) - Rethinking Model Scaling for Convolutional Neural Networks
   - [DenseNet](https://arxiv.org/pdf/1608.06993.pdf) - Densely Connected Convolutional Networks
+- #### LLM
+  - [WFGY](https://github.com/onestardao/WFGY) - Open source framework and TXT/PDF pack for debugging and stress testing large language models using a 16 Problem Map of failure modes. Includes a PDF book (WFGY 1.0), practical RAG clinics (WFGY 2.0), and a long-horizon TXT playground (WFGY 3.0) for studying LLM behaviour.
 - #### NLP
   - [XLNet](https://arxiv.org/pdf/1906.08237.pdf) - [repo](https://github.com/zihangdai/xlnet) XLNet: Generalized Autoregressive Pretraining for Language Understanding
   - [BERT](https://arxiv.org/pdf/1810.04805.pdf) - Pre-training of Deep Bidirectional Transformers for Language Understanding
